@@ -5,6 +5,8 @@ Before running this program, please fix the three minor issues :)
 After a successful run, please submit a pull request!
 '''
 
+print('OK')
+
 def read_input():
     # Please allow the user to enter their first and last name from the terminal
     # Hint: We call this a raw input
